@@ -1,5 +1,6 @@
 # 📊 HR Analytics Dashboard: From SQL Analysis to Power BI Visualization 
 (Diagram: SQL → Data Cleaning → DAX Modeling → Visualization)
+- Dashboard view: https://github.com/JusticeAnalyst/HR-Analytics-Dashboard/blob/main/Screenshot%20(357).png
 
 ## 🔍 End-to-End Analysis Process
 
@@ -24,6 +25,7 @@ ORDER BY AttritionRate DESC
 3. Calculated avg tenure gap (7.36 yrs vs. 5.13 yrs for stayers/leavers)  
 
 *(Full SQL script available in `HR_Analytics_SQL_Queries.sql`)*
+https://github.com/JusticeAnalyst/HR-Analytics-Dashboard/blob/main/HR_Analytics%20SQL%20Query.sq
 
 ### 2. Power BI Transformation
 ETL Process:
